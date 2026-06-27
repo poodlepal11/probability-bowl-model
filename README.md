@@ -1,0 +1,2 @@
+# probability-bowl-model
+Predicting the 2026 World Cup!
